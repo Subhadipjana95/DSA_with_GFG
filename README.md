@@ -40,3 +40,23 @@ GFG/
 |---|---------|----------|-------|
 | 1 | [Aggressive Cows](https://practice.geeksforgeeks.org/problems/aggressive-cows/1) | [Java](GFG/Medium/0_AggressiveCows.java) | Binary Search |
 | 2 | [Allocate Minimum Pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | [Java](GFG/Medium/0_AllocateMinimumPages.java) | Binary Search |
+
+<!-- COMMITDSA_START -->
+# DSA Portfolio
+
+Welcome to my DSA solutions portfolio! This repository contains my solved problems on LeetCode and GeeksforGeeks, synchronized automatically using [CommitDSA](https://github.com/aprshubh/CommitDSA).
+
+## Statistics
+
+| Platform | Total Solved | Easy | Medium | Hard |
+| --- | --- | --- | --- | --- |
+| LeetCode | 0 | 0 | 0 | 0 |
+| GeeksforGeeks | 1 | 0 | 1 | 0 |
+| **Total** | **1** | **0** | **1** | **0** |
+
+## Solved Problems
+
+| # | Problem | Platform | Difficulty | Language | Code |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [All Subsequences of a String](https://practice.geeksforgeeks.org/problems/power-set4302/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_AllSubsequencesOfAString.java) |
+<!-- COMMITDSA_END -->
